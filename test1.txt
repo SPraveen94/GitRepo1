@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 4AA9-A0F7
-
- Directory of C:\Users\Praveen Kumar\Desktop\MyGit\MyFolder
-
-03/03/2022  04:49 PM    <DIR>          .
-03/03/2022  04:49 PM    <DIR>          ..
-03/03/2022  04:49 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  94,941,171,712 bytes free
+Change1
